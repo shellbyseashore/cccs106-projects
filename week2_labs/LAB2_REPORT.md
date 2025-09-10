@@ -1,0 +1,79 @@
+# Lab 2 Report: Git Version Control and 6Flet GUI Development
+
+**Student Name:** Michelle S. Tercero
+**Student ID:** 231002344
+**Section:** 3A
+**Date:** 09/10/2025
+
+## Git Configuration
+
+### Repository Setup
+- **GitHub Repository:** [Your repository URL]
+- **Local Repository:** ✅ Initialized and connected
+- **Commit History:** [Number] commits with descriptive messages
+
+### Git Skills Demonstrated
+- ✅ Repository initialization and configuration
+- ✅ Adding, committing, and pushing changes
+- ✅ Branch creation and merging
+- ✅ Remote repository management
+
+## Flet GUI Applications
+
+### 1. hello_flet.py
+- **Status:** ✅ Completed
+- **Features:** Interactive greeting, student info display, dialog boxes
+- **UI Components:** Text, TextField, Buttons, Dialog, Containers
+- **Notes:** No  challenges so far
+
+### 2. personal_info_gui.py
+- **Status:** ✅ Completed
+- **Features:** Form inputs, dropdowns, radio buttons, profile generation
+- **UI Components:** TextField, Dropdown, RadioGroup, Containers, Scrolling
+- **Error Handling:** Input validation and user feedback
+- **Notes:** None
+
+## Technical Skills Developed
+
+### Git Version Control
+- Understanding of repository concepts
+- Basic Git workflow (add, commit, push)
+- Branch management and merging
+- Remote repository collaboration
+
+### Flet GUI Development
+- Flet 0.28.3 syntax and components
+- Page configuration and layout management
+- Event handling and user interaction
+- Modern UI design principles
+
+## Challenges and Solutions
+
+Some of the files that shouldn't be commited were in the repository and had to redo it
+
+## Learning Outcomes
+
+Working on this activity was both fun and challenging. Since it was my first time, I felt a bit confused, especially when I had to connect it to my GitHub account and encountered some errors. However, through the process, I was able to learn, practice problem-solving, and eventually understand how to do it correctly. This experience taught me the value of patience and persistence in learning new tools.
+
+## Screenshots
+
+### Git Repository
+- [/] GitHub repository with commit history
+![github_repo](lab2_screenshots/github_repo.png)
+
+- [/] Local git log showing commits
+
+   ![local](lab2_screenshots/local.png) 
+   ![week2](lab2_screenshots/week2.png)
+
+
+### GUI Applications
+- [/] hello_flet.py running with all features
+![hello_flet_output](lab2_screenshots/hello_flet_output.png)
+- [/] personal_info_gui.py with filled form and generated profile
+![personal_info_output](lab2_screenshots/personal_info_output.png)
+
+
+## Future Enhancements
+
+Maybe by adding some theme customization for hello_flet.py and ehance personal_info_gui with profile saving, picture upload, and option to export.
