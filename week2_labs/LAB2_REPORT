@@ -59,19 +59,19 @@ Working on this activity was both fun and challenging. Since it was my first tim
 
 ### Git Repository
 - [/] GitHub repository with commit history
-![github_repo](lab2_screenshots/github_repo.png)
+![github_repo](week2_labs/lab2_screenshots/github_repo.png)
 
 - [/] Local git log showing commits
 
-   ![local](lab2_screenshots/local.png) 
-   ![week2](lab2_screenshots/week2.png)
+   ![local](week2_labs/lab2_screenshots/local.png) 
+   ![week2](week2_labs/lab2_screenshots/week2.png)
 
 
 ### GUI Applications
 - [/] hello_flet.py running with all features
-![hello_flet_output](lab2_screenshots/hello_flet_output.png)
+![hello_flet_output](week2_labs/lab2_screenshots/hello_flet_output.png)
 - [/] personal_info_gui.py with filled form and generated profile
-![personal_info_output](lab2_screenshots/personal_info_output.png)
+![personal_info_output](week2_labs/lab2_screenshots/personal_info_output.png)
 
 
 ## Future Enhancements
