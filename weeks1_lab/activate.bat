@@ -1,0 +1,1 @@
+call ..\cccs106_env_tercero\Scripts\activate.bat
